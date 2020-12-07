@@ -52,6 +52,11 @@ namespace JSONParserVoorbeeld
             Dictionary<string, string> roomProperties = jFirstRoom.ToObject<Dictionary<string, string>>();
             Console.WriteLine(roomProperties["width"]);
 
+            // Of je parst direct naar je (parsed) objecten:
+            JToken jPlayer= json["player"];
+            ParsedPlayer parsedPlayer = jPlayer.ToObject<ParsedPlayer>();
+            Console.WriteLine(parsedPlayer);
+
             Console.ReadKey();
         }
     }

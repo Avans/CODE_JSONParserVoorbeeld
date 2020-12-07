@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ijNqFXN/dxgBZEgV3inEHjzepsZk/NMk9pocxzNug3AY/NhUtX9pLwXi/fQtPE8BK+tLNpKbTQoUtoiGV7boog==",
+  "dgSpecHash": "k8P5C4e97hqDqwHUblYJAXoWc6SlzQ9CXg9vPsowNoEwduhzUO7re/ZShOg0C/PJqnHewhGFbrxi439yD8BBRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj",
+  "projectFilePath": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\CODE_JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmaar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

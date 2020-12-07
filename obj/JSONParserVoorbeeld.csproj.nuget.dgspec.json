@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj": {}
+    "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\CODE_JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj": {
+    "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\CODE_JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj",
+        "projectUniqueName": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\CODE_JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj",
         "projectName": "JSONParserVoorbeeld",
-        "projectPath": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj",
+        "projectPath": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\CODE_JSONParserVoorbeeld\\JSONParserVoorbeeld.csproj",
         "packagesPath": "C:\\Users\\mmaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\JSONParserVoorbeeld\\obj\\",
+        "outputPath": "C:\\Users\\mmaar\\Avans Hogeschool\\AII-Informatica - General\\Modules (MoCo, Docenten)\\Periode 2\\06_CODE\\CODE_2021\\Voorbeelduitwerkingen\\CODE_JSONParserVoorbeeld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
